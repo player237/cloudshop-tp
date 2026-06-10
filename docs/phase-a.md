@@ -4,6 +4,7 @@
 
 (5 to 8 lines)
 
+Cloud computing means using remote servers hosted on the internet to store, manage, and run applications, instead of buying and maintaining physical hardware.It allows businesses like a cloud shop to access resources on demand and pay only for what they use.
 ## 2. Classify as IaaS / PaaS / SaaS
 
 | Service | Model (IaaS / PaaS / SaaS) | One sentence |
