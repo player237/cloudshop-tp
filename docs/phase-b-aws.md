@@ -27,6 +27,12 @@ curl http://localhost
 
 Explain the role of: **SSH key**, **public IP**, **security group**.
 
+ SSH key; You use it to connect securely without a password. Only someone with the private key can log in.
+
+ public IP;the public IP changes every time the instance restarts unless you use an Elastic IP.
+
+ security group; It controls which ports and IP addresses are allowed to send traffic to your server.
+
 ## Technical choices
 
 - AWS region and why:
